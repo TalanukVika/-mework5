@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Секції та списки</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Заголовки та списки</h1>
+
+        <section>
+            <h2>Перша секція</h2>
+            <ul>
+                <li>1.1 Перший пункт</li>
+                <li>1.2 Другий пункт</li
+                <li>1.3 Третій пункт</li
+<section>
+    <h2>Друга секція</h2>
+    <ul>
+        <li> 2.1 Перший пункт
+        </li>
+        <li> 2.2 Другий пункт
+            <ul>
+                <li>Підпункт 1</li>
+                <li>Підпункт 2</li>
+                <li>Підпункт 3</li>
+            </ul>
+        </li>
+        <li> 2.6 Третій пункт</li>
+    </ul>
+</section>
+
+<section>
+            <h2>Третя секція</h2>
+            <ul>
+                <li>3.1 Перший пункт</li>
+                <li>3.2 Другий пункт</li
+                <li>3.3 Третій пункт</li
+<section>
